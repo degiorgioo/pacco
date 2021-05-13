@@ -1,5 +1,5 @@
 {
-  "name": "pacco",
+  "name": "@dada/pacco",
   "version": "1.0.0",
   "description": "Helper to run package.json scripts from the cli.",
   "bin": {
