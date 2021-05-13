@@ -19,7 +19,7 @@ $ pacco
 ## Install
 
 ```
-$ npm install --global pacco
+$ npm install --global @dada/pacco
 ```
 
 ## Test
