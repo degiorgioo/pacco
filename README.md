@@ -6,17 +6,23 @@ Helps you to run scripts of the `package.json` file - It opens an interactive pr
 
 Navigate to a directory including a `package.json` and run:
 
-`pacco`
+```
+$ pacco
+```
 
 ![Pacco Preview](preview.gif)
 
 ## Install
 
-`npm install --global pacco`
+```
+$ npm install --global pacco
+```
 
 ## Test
 
-`yarn test-watch`
+```
+$ yarn test-watch
+```
 
 --
 
