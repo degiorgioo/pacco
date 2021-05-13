@@ -25,7 +25,7 @@ $ npm install --global pacco
 ## Test
 
 ```
-$ yarn test-watch
+$ npm run test-watch
 ```
 
 --
