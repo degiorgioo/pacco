@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`fileresolver.js tests should read a correct package.json file correctly without errors 1`] = `
+Object {
+  "dependencies": Object {
+    "cli-color": "^2.0.0",
+    "inquirer": "^8.0.0",
+    "inquirer-search-list": "^1.2.6",
+  },
+  "description": "Helper to run package.json scripts.",
+  "devDependencies": Object {
+    "jest": "^26.6.3",
+  },
+  "main": "index.js",
+  "name": "@vai/correct",
+  "scripts": Object {
+    "build": "echo build",
+    "start": "echo start",
+    "test-watch": "jest --watchAll",
+  },
+  "version": "1.0.0",
+}
+`;

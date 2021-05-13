@@ -1,0 +1,9 @@
+{
+    "name": "@vai/error",
+    "version": "1.0.0",
+    "description": "Helper to run package.json scripts.",
+    "main": "index.js",
+    "dependencies": {
+        "cli-color": "^2.0.0"
+    }
+}
