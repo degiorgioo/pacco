@@ -19,7 +19,7 @@ $ pacco
 ## Install
 
 ```
-$ npm install --global @dada/pacco
+$ npm install --global @dadatools/pacco
 ```
 
 ## Test
