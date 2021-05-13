@@ -10,7 +10,11 @@ Navigate to a directory including a `package.json` and run:
 $ pacco
 ```
 
+<div align="center">
+
 ![Pacco Preview](preview.gif)
+
+</div>
 
 ## Install
 
