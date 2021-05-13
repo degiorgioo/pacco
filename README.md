@@ -8,7 +8,7 @@ Navigate to a directory including a `package.json` and run:
 
 `pacco`
 
-![Pacco Preview](https://github.com/ddegiorg/pacco/raw/master/pacco.gif)
+![Pacco Preview](https://github.com/degiorgioo/pacco/blob/main/preview.gif)
 
 ## Install
 
