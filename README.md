@@ -1,3 +1,4 @@
+![Build status](https://www.travis-ci.com/degiorgioo/pacco.svg?branch=main)
 # pacco
 
 Helps you to run scripts of the `package.json` file - It opens an interactive prompt with the list of defined scripts.
