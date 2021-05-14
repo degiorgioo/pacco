@@ -1,6 +1,6 @@
 {
   "name": "@dadatools/pacco",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper to run package.json scripts from the cli.",
   "bin": {
     "pacco": "./cli.js"
