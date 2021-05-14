@@ -7,7 +7,7 @@ Helps you to run scripts of the `package.json` file - It opens an interactive pr
 Navigate to a directory including a `package.json` and run:
 
 ```
-$ pacco
+pacco
 ```
 
 <div align="center">
@@ -19,13 +19,13 @@ $ pacco
 ## Install
 
 ```
-$ npm install --global @dadatools/pacco
+npm install --global @dadatools/pacco
 ```
 
 ## Test
 
 ```
-$ npm run test-watch
+npm run test-watch
 ```
 
 --
